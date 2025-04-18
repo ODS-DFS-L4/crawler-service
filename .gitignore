@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+work/
+test_*.py
+*.log
